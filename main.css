@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 24px;
+}
+
+form {
+    font-size: 24px;
+}
+
+form input {
+    width: 180px;
+    font-size: 24px;
+}
+
+#nome {
+    width: 500px;
+}
+
+#email {
+    width: 606px;
+}
+
+#endereco {
+    width: 466px;
+}
+
+.container {
+    padding: 2px;
+    font-weight: bold;
+    display: block;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.button {
+    text-align: center;
+    padding: 8px;
+}
+
+button {
+    transition-duration: 0.5s;
+    cursor: pointer;
+    font-size: 24px;
+}
